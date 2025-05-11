@@ -1,5 +1,5 @@
 {
-  "itemGroup.lucky": "Example Mod Tab",
-  "block.lucky.example_block": "Example Block",
-  "item.lucky.example_item": "Example Item"
+  "itemGroup.lucky": "Lucky Everything",
+  "block.lucky.lucky_block": "Lucky Block",
+  "item.lucky.lucky_block": "Lucky Block"
 }
